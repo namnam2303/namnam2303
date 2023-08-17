@@ -20,6 +20,17 @@ I'm a passionate full-stack web developer with expertise in both front-end and b
   - Windows
   - Linux (CentOS)
 
+## 🏆 Achievements
+
+In addition to being a skilled developer, I'm also an active programming competition enthusiast. I've participated in various contests and achieved notable results:
+
+- **Olympic Informatics Student Vietnam:**
+  - 2021 - Silver Medalist
+  - 2022 - Gold Medalist
+
+- **LeetCode Contest:**
+  - Rated 1747 with a top 9% ranking in global competitions
+
 ## 💼 Professional Experience
 
 I have [6 months] of experience working in software development, during be an on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
