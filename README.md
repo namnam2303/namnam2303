@@ -25,11 +25,14 @@ I'm a passionate full-stack web developer with expertise in both front-end and b
 In addition to being a skilled developer, I'm also an active programming competition enthusiast. I've participated in various contests and achieved notable results:
 
 - **Olympic Informatics Student Vietnam:**
-  - 2021 - Silver Medalist
-  - 2022 - Gold Medalist
+  - 2021 - Second Place in the Community College Division
+  - 2022 - Honorable Mention in the Non-Professional Division
 
 - **LeetCode Contest:**
   - Rated 1747 with a top 9% ranking in global competitions
+
+- **Hackathon**:
+  - FPT Hackathon Education 2022: Advanced to the Semi-Final round in the FPT Hackathon Education 2022 with a project based on blockchain technology.
 
 ## 💼 Professional Experience
 
