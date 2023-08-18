@@ -24,7 +24,7 @@ I'm a passionate full-stack web developer with expertise in both front-end and b
 
 In addition to being a skilled developer, I'm also an active programming competition enthusiast. I've participated in various contests and achieved notable results:
 
-- **Olympic Informatics Student Vietnam:**
+- **"Vietnamese Student Informatics Olympiad:**
   - 2021 - Second Place in the Community College Division
   - 2022 - Honorable Mention in the Non-Professional Division
 
