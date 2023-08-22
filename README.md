@@ -1,4 +1,4 @@
-# Hi there, I'm [Nguyen Phuong Nam] 👋
+# Hi there, I'm Nguyen Phuong Nam 👋
 
 I'm a passionate full-stack web developer with expertise in both front-end and back-end technologies. I specialize in crafting dynamic and responsive web applications using Angular for the front-end and Java Spring Boot for the back-end. My proficiency spans across several programming languages, allowing me to tackle various challenges in different domains.
 
@@ -36,7 +36,7 @@ In addition to being a skilled developer, I'm also an active programming competi
 
 ## 💼 Professional Experience
 
-I have [6 months] of experience working in software development, during be an on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
+I have 6 months of experience working in software development, during be an on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
 
 ## 🌐 Portfolio
 
