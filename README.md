@@ -10,8 +10,7 @@ I'm a passionate full-stack web developer with expertise in both front-end and b
 
 - **Languages:** I'm comfortable coding in the following languages:
   - Python
-  - C
-  - C++
+  - C/C++
   - Java
   - JavaScript
   - TypeScript
@@ -36,7 +35,7 @@ In addition to being a skilled developer, I'm also an active programming competi
 
 ## 💼 Professional Experience
 
-I have 6 months of experience working in software development, during be an on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
+I have 6 months of experience working in software development, during be a C++ on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
 
 ## 🌐 Portfolio
 
