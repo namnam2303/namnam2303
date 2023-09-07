@@ -17,7 +17,7 @@ I'm a passionate full-stack web developer with expertise in both front-end and b
 
 - **Operating Systems:** Experienced in working with the following operating systems:
   - Windows
-  - Linux (CentOS)
+  - Linux
 
 ## 🏆 Achievements
 
