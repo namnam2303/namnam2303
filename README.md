@@ -39,7 +39,7 @@ I have 6 months of experience working in software development, during be a java 
 
 ## 🌐 Portfolio
 
-Check out some of my projects on my portfolio [update soon], where I showcase my work and share my thoughts on various technical topics.
+Check out some of my projects on my portfolio [TopCV](https://www.topcv.vn/xem-cv/BlBUBwQFAQoNVABRD15SAQdVVg0AWlIHCgRQBAd597) where I showcase my work and share my thoughts on various technical topics.
 
 ## 📫 Contact
 
