@@ -35,7 +35,7 @@ In addition to being a skilled developer, I'm also an active programming competi
 
 ## 💼 Professional Experience
 
-I have 6 months of experience working in software development, during be a C++ on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
+I have 6 months of experience working in software development, during be a java and C++ on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
 
 ## 🌐 Portfolio
 
