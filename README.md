@@ -5,7 +5,7 @@ I'm a passionate full-stack web developer with expertise in both front-end and b
 ## 🚀 Skills
 
 - **Full Stack Development:** Proficient in building end-to-end web applications using:
-  - Angular for the front-end
+  - Angular, ReactJS for the front-end
   - Java Spring Boot for the back-end
 
 - **Languages:** I'm comfortable coding in the following languages:
