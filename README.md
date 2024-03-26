@@ -4,7 +4,7 @@ My goal is to become a full-stack web developer with expertise in both front-end
 
 ## 🚀 Skills
 
-- **Full Stack Development:** Proficient in building end-to-end web applications using:
+- **Web Development:** Proficient in building end-to-end web applications using:
   - Angular, ReactJS for the front-end
   - Java Spring Boot for the back-end
 
