@@ -35,7 +35,7 @@ In addition to being a skilled developer, I'm also an active programming competi
 
 ## 💼 Professional Experience
 
-I have 6 months of experience working in software development, during be a java and C++ on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
+I have 7 months of experience working in software development, during be a java and C++ on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
 
 ## 🌐 Portfolio
 
@@ -43,6 +43,6 @@ Check out some of my projects on my portfolio [TopCV](https://static.topcv.vn/to
 
 ## 📫 Contact
 
-Feel free to reach out to me via email at [imsofh@gmail.com](mailto:imsofh@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile-link/](https://www.linkedin.com/in/nguyen-nam-84a7b0216/)).
+Feel free to reach out to me via email at [phuongnam23032000@gmail.com](mailto:phuongnam23032000@gmail.com).
 
 Looking forward to collaborating on exciting projects and exploring new opportunities in the world of software development!
