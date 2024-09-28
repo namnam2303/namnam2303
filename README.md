@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Phuong Nam 👋
 
-My goal is to become a full-stack web developer with expertise in both front-end and back-end technologies. I specialize in crafting dynamic and responsive web applications using ReactJs and Angular for the front-end and Java Spring Boot for the back-end. My proficiency spans across several programming languages, allowing me to tackle various challenges in different domains.
+I specialize in crafting dynamic and responsive web applications using ReactJs and Angular for the front-end and Java Spring Boot for the back-end. My proficiency spans across several programming languages, allowing me to tackle various challenges in different domains.
 
 ## 🚀 Skills
 
