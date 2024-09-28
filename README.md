@@ -37,10 +37,6 @@ In addition to being a skilled developer, I'm also an active programming competi
 
 I have 7 months of experience working in software development, during be a java and C++ on job training staff at Toshiba Software Development VietNam . I'm passionate about clean code, best practices, and continuous learning.
 
-## 🌐 Portfolio
-
-Check out some of my projects on my portfolio [TopCV](https://static.topcv.vn/topcv-cv-uploads/90fa189f51315959fbc9a3c9f3702bc9.pdf#toolbar=0&navpanes=0&scrollbar=0) where I showcase my work and share my thoughts on various technical topics.
-
 ## 📫 Contact
 
 Feel free to reach out to me via email at [phuongnam23032000@gmail.com](mailto:phuongnam23032000@gmail.com).
