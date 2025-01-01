@@ -24,8 +24,8 @@ With over **3 years of professional experience** in software development, I spec
 Beyond my development skills, I am an active participant in programming competitions, achieving notable results:
 
 - **Vietnamese Student Informatics Olympiad:**
-  - **2021:** Second Place 
-  - **2022:** Honorable Mention in the Non-Professional Division
+  - **2021:** The Second prize 
+  - **2022:**  The Consolation prize
 
 - **LeetCode Contest:**
   - Rated 1747 with a top 9% ranking in global competitions
